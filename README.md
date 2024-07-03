@@ -75,11 +75,11 @@ Utilisez cet outil pour faire pivoter l'image
 
 Exigences de l'outil:
 - Angle
-    - Specify an angle to rotate the image
+    - Spécifiez un angle pour faire pivoter l'image
 
 Note:
-- To rotate the image clockwise, use a negative value
-- To rotate the image anticlockwise, use a positive value
+- Pour faire pivoter l'image dans le sens horaire, utilisez une valeur négative
+- Pour faire pivoter l'image dans le sens horaire, utilisez une valeur positive
 
 3.3- Retournement
 
@@ -144,13 +144,13 @@ Il y a 4 filtres.Qui sont
 - Saturation
 - Teinte
 
-Each filter has 2 buttons, A button `+` to increase it's value and another button `-` to decrease it
+Chaque filtre a 2 boutons, un bouton `+` pour augmenter sa valeur et un autre bouton `-` pour la diminuer
 
-5- Effects
+5- Effets
 
-Effects are just a combination of multiple filters with specific values
+Les effets ne sont qu'une combinaison de filtres multiples avec des valeurs spécifiques
 
-Click on an effect to apply it
+Cliquez sur un effet pour l'appliquer
 
 6- Télécharger
 
@@ -162,7 +162,7 @@ NOTE:
 - Utilisez "PNG" pour un fond transparent
 - Utilisez "JPG" pour une taille de fichier plus petite
 
-Then click on the download button
+Puis cliquez sur le bouton de téléchargement 
 
 ### Caractéristiques:
 #### Outils:
@@ -173,10 +173,10 @@ Then click on the download button
 - Watermark
 
 #### Filtres:
-- Brightness
-- Contrast
+- Luminosité
+- Contraste
 - Saturation
-- Vibrance
+- Teinte
 
 #### Effets:
 - Blur
