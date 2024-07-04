@@ -4,8 +4,6 @@ Un site Web d'éditeur de photos léger
 
 <picture><img alt="Editeur" src="https://lapervenche.github.io/SiteDeMesTravaux/assets/img/Editeur-image.png"></picture>
 
-### Website link: https://github.com/lapervenche/Editeur-d-image
-
 ### Description:
 Un outil web d'édition de photos ou d'images.
 
