@@ -1,13 +1,16 @@
 # Editeur d'image
 Un site Web d'éditeur de photos léger
-# Photo-Editor-Webapp
+# Editeur-d-image
+
+<picture><img alt="Editeur" src="https://lapervenche.github.io/SiteDeMesTravaux/assets/img/Editeur-image.png"></picture>
 
 ### Website link: https://github.com/lapervenche/Editeur-d-image
 
 ### Description:
-Un site web d'édition de photos.
+Un outil web d'édition de photos ou d'images.
 
-> This project was my final project for CS50 Course
+> Vous pouvez aussi vous en sservir directement depuis votre PC
+> ou l'héberger directement sur un serveur en ligne.
 
 ### Projet Contenu:
 - Fichiers html
